@@ -6,6 +6,6 @@ public class DeclaringVars {
         int a, b, c;
         a = b = c = 10;
 
-        System.out.print(a + "\n" + b + "\n" + c);
+        System.out.print(a);
     }
 }
